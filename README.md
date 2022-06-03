@@ -33,6 +33,8 @@ Here's a walkthrough of implemented user stories:
 
 <img src='https://imgur.com/a/QZP6ZZV' title='Depaz_Flixter_Demo' width='' alt='Video Walkthrough' />
 
+Link: https://imgur.com/6UKasP1.gif
+
 GIF created with [Kap](https://getkap.co/).
 
 ## Notes
