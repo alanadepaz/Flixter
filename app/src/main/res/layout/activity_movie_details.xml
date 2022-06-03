@@ -11,6 +11,7 @@
       android:layout_width="wrap_content"
       android:layout_height="wrap_content"
       android:layout_below="@+id/ivPoster2"
+      android:layout_marginLeft="5dp"
       android:layout_marginTop="5dp"
       android:textAppearance="@android:style/TextAppearance.Large"
       tools:text="Movie Title" />
@@ -40,8 +41,8 @@
 
   <ImageView
       android:id="@+id/ivPoster2"
-      android:layout_width="350dp"
-      android:layout_height="197dp"
+      android:layout_width="370dp"
+      android:layout_height="208dp"
       android:layout_alignParentStart="true"
       android:layout_alignParentTop="true"
       android:layout_alignParentEnd="true"
