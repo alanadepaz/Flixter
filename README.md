@@ -42,6 +42,8 @@ There were some challenges encountered while creating the app.
   - Image not showing up in the second activity
   - Formatting with the constraints for the TextViews
 
+But all these bugs were corrected.
+
 ## Open-source libraries used
 
 - [Android Async HTTP](https://github.com/loopj/android-async-http) - Simple asynchronous HTTP requests with JSON parsing
